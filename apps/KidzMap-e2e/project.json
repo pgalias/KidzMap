@@ -1,0 +1,9 @@
+{
+  "name": "KidzMap-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/KidzMap-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["KidzMap"],
+  "// targets": "to see all targets run: nx show project KidzMap-e2e --web",
+  "targets": {}
+}
